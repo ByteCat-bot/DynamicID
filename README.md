@@ -2,6 +2,7 @@
 # DynamicID: Zero-Shot Multi-ID Image Personalization with Flexible Facial Editability
 
 <div align="center">
+    
 ### [ICCV 2025]
 
 [![Paper](https://img.shields.io/badge/Paper-gray)](https://arxiv.org/abs/2503.06505) &ensp; [![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2503.06505) &ensp; [![Project Page](https://img.shields.io/badge/Project%20Page-green
