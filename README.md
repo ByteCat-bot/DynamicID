@@ -5,8 +5,8 @@
     
 ### [ICCV 2025]
 
-[![Paper](https://img.shields.io/badge/Paper-gray)](https://arxiv.org/abs/2503.06505) &ensp; [![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2503.06505) &ensp; [![Project Page](https://img.shields.io/badge/Project%20Page-green
-)](https://ByteCat-bot.github.io/DynamicID-webpage/)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.06505-b31b1b.svg)](https://arxiv.org/abs/2503.06505)
+[![GitHub](https://img.shields.io/badge/GitHub-MTVCrafter-blue?logo=github)](https://github.com/ByteCat-bot/DynamicID)
 </div>
 
 ---
