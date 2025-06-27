@@ -1,4 +1,4 @@
-
+<div align="center">
 # DynamicID: Zero-Shot Multi-ID Image Personalization with Flexible Facial Editability
 
 ### [ICCV 2025]
@@ -46,7 +46,13 @@ The proposed framework is architected around two core components: SAA and IMR. (
     <img src="assets/multi.jpg", width="900">
 </div>
 
+## 📌 ToDo List
 
+- [x] Release technical report
+- [x] Release **training and inference code**
+- [ ] Release **Dynamic-sd** (based on *stable diffusion v1.5*)  
+- [ ] Release **Dynamic-flux** (based on *Flux-dev*)
+- [ ] Release a Hugging Face Demo Space
 
 ## 📖 Citation
 If you are inspired by our work, please cite our paper.
