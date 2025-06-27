@@ -5,6 +5,14 @@
     
 ### [ICCV 2025]
 
+[Xirui Hu](https://openreview.net/profile?id=~Xirui_Hu1),
+[Jiahao Wang](https://openreview.net/profile?id=~Jiahao_Wang14),
+[Hao Chen](https://openreview.net/profile?id=~Hao_chen100),
+[Weizhan Zhang](https://openreview.net/profile?id=~Weizhan_Zhang1),
+[Benqi Wang](https://openreview.net/profile?id=~Benqi_Wang2),
+[Yikun Li](https://openreview.net/profile?id=~Yikun_Li1),
+[Haishun Nan](https://openreview.net/profile?id=~Haishun_Nan1),
+
 [![arXiv](https://img.shields.io/badge/arXiv-2503.06505-b31b1b.svg)](https://arxiv.org/abs/2503.06505)
 [![GitHub](https://img.shields.io/badge/GitHub-MTVCrafter-blue?logo=github)](https://github.com/ByteCat-bot/DynamicID)
 </div>
