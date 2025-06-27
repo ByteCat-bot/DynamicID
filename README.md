@@ -46,6 +46,13 @@ Experimental results demonstrate that DynamicID outperforms state-of-the-art met
 
 The proposed framework is architected around two core components: SAA and IMR. (a) In the anchoring stage, we jointly optimize the SAA and a face encoder to establish robust single-ID and multi-ID personalized generation capabilities. (b) Subsequently in the reconfiguration stage, we freeze these optimized components and leverage them to train the IMR for flexible and fine-grained facial editing.
 
+## 🚀 Checkpoint
+
+1. Download the pretrained Stable Diffusion v1.5 checkpoint from [Stable Diffusion v1.5 on Hugging Face](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5).
+
+2. Download our SAA-related and IMR-related checkpoints from  [DynamicID Checkpoints on Hugging Face](https://huggingface.co/meteorite2023/DynamicID).
+
+
 ## 🌈 Gallery
 
 <div align="center">
@@ -60,7 +67,7 @@ The proposed framework is architected around two core components: SAA and IMR. (
 
 - [x] Release technical report
 - [x] Release **training and inference code**
-- [ ] Release **Dynamic-sd** (based on *stable diffusion v1.5*)  
+- [x] Release **Dynamic-sd** (based on *stable diffusion v1.5*)  
 - [ ] Release **Dynamic-flux** (based on *Flux-dev*)
 - [ ] Release a Hugging Face Demo Space
 
