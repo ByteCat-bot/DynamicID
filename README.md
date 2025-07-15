@@ -14,7 +14,7 @@
 [Haishun Nan](https://openreview.net/profile?id=~Haishun_Nan1),
 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.06505-b31b1b.svg)](https://arxiv.org/abs/2503.06505)
-[![GitHub](https://img.shields.io/badge/GitHub-MTVCrafter-blue?logo=github)](https://github.com/ByteCat-bot/DynamicID)
+[![GitHub](https://img.shields.io/badge/GitHub-DynamicID-blue?logo=github)](https://github.com/ByteCat-bot/DynamicID)
 </div>
 
 ---
