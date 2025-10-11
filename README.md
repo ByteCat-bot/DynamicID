@@ -5,7 +5,7 @@
     
 ### [ICCV 2025]
 
-[Xirui Hu](https://openreview.net/profile?id=~Xirui_Hu1),
+[Xirui Hu](https://openreview.net/profile?id=~Xirui_Hu1)
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.06505-b31b1b.svg)](https://arxiv.org/abs/2503.06505)
@@ -72,11 +72,12 @@ If you are inspired by our work, please cite our paper.
 ```bibtex
 @inproceedings{dynamicid,
       title={DynamicID: Zero-Shot Multi-ID Image Personalization with Flexible Facial Editability},
-      author={Xirui Hu,
+      author={Xirui Hu
               },
       booktitle={International Conference on Computer Vision},
       year={2025}
     }
     
 ```
+
 
