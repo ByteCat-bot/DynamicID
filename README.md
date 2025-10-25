@@ -69,15 +69,7 @@ The proposed framework is architected around two core components: SAA and IMR. (
 
 ## 📖 Citation
 If you are inspired by our work, please cite our paper.
-```bibtex
-@inproceedings{dynamicid,
-      title={DynamicID: Zero-Shot Multi-ID Image Personalization with Flexible Facial Editability},
-      author={Xirui Hu
-              },
-      booktitle={International Conference on Computer Vision},
-      year={2025}
-    }
-    
-```
+
+
 
 
