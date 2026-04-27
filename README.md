@@ -5,7 +5,7 @@
     
 ### [ICCV 2025]
 
-[Xirui Hu](https://openreview.net/profile?id=~Xirui_Hu1)
+[Xirui Hu](https://openreview.net/profile?id=~Xirui_Hu1), Jiahao Wang, Hao Chen, Weizhan Zhang, Benqi Wang, Yikun Li, Haishun Nan
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.06505-b31b1b.svg)](https://arxiv.org/abs/2503.06505)
